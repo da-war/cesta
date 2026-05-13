@@ -1,0 +1,11 @@
+[
+  { "id": "u_a1_0_basics", "region": "A1", "region_name": "Foundation", "display_order": 1, "title": "First Czech words", "description": "Hello, please, thank you — your first 25 words.", "is_boss": false, "required_xp": 0, "cefr_sub_band": "A1.0" },
+  { "id": "u_a1_1_people", "region": "A1", "region_name": "Foundation", "display_order": 2, "title": "People & introductions", "description": "Family, names, where you're from.", "is_boss": false, "required_xp": 30, "cefr_sub_band": "A1.1" },
+  { "id": "u_a1_2_daily", "region": "A1", "region_name": "Foundation", "display_order": 3, "title": "Daily life", "description": "Food, drink, time, transport.", "is_boss": true, "required_xp": 80, "cefr_sub_band": "A1.2" },
+  { "id": "u_a2_0_around", "region": "A2", "region_name": "Conversation", "display_order": 4, "title": "Around town", "description": "Directions, shops, restaurants.", "is_boss": false, "required_xp": 150, "cefr_sub_band": "A2.0" },
+  { "id": "u_a2_1_past", "region": "A2", "region_name": "Conversation", "display_order": 5, "title": "Past & future", "description": "Tell stories, make plans.", "is_boss": false, "required_xp": 220, "cefr_sub_band": "A2.1" },
+  { "id": "u_a2_2_opinions", "region": "A2", "region_name": "Conversation", "display_order": 6, "title": "Opinions & feelings", "description": "Talk about what you think and feel.", "is_boss": true, "required_xp": 300, "cefr_sub_band": "A2.2" },
+  { "id": "u_b1_0_work", "region": "B1", "region_name": "Fluency", "display_order": 7, "title": "Work & studies", "description": "Career, university, professional life.", "is_boss": false, "required_xp": 400, "cefr_sub_band": "B1.0" },
+  { "id": "u_b1_1_culture", "region": "B1", "region_name": "Fluency", "display_order": 8, "title": "Culture & ideas", "description": "Discuss films, books, current events.", "is_boss": false, "required_xp": 500, "cefr_sub_band": "B1.1" },
+  { "id": "u_b1_2_nuance", "region": "B1", "region_name": "Fluency", "display_order": 9, "title": "Nuance & idioms", "description": "Sound like a local. The B1 finish line.", "is_boss": true, "required_xp": 600, "cefr_sub_band": "B1.2" }
+]

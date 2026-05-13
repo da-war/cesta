@@ -1,0 +1,55 @@
+[
+  { "id": "l_a1_0_1", "unit_id": "u_a1_0_basics", "display_order": 1, "title": "Hello & goodbye", "target_xp": 10, "is_free": true },
+  { "id": "l_a1_0_2", "unit_id": "u_a1_0_basics", "display_order": 2, "title": "Please & thank you", "target_xp": 10, "is_free": true },
+  { "id": "l_a1_0_3", "unit_id": "u_a1_0_basics", "display_order": 3, "title": "Yes, no, maybe", "target_xp": 10, "is_free": false },
+  { "id": "l_a1_0_4", "unit_id": "u_a1_0_basics", "display_order": 4, "title": "Numbers 1–10", "target_xp": 15, "is_free": false },
+  { "id": "l_a1_0_5", "unit_id": "u_a1_0_basics", "display_order": 5, "title": "Colors", "target_xp": 15, "is_free": false },
+
+  { "id": "l_a1_1_1", "unit_id": "u_a1_1_people", "display_order": 1, "title": "Family", "target_xp": 15, "is_free": true },
+  { "id": "l_a1_1_2", "unit_id": "u_a1_1_people", "display_order": 2, "title": "Friends", "target_xp": 15, "is_free": false },
+  { "id": "l_a1_1_3", "unit_id": "u_a1_1_people", "display_order": 3, "title": "Where are you from?", "target_xp": 15, "is_free": false },
+  { "id": "l_a1_1_4", "unit_id": "u_a1_1_people", "display_order": 4, "title": "I am, you are", "target_xp": 20, "is_free": false },
+  { "id": "l_a1_1_5", "unit_id": "u_a1_1_people", "display_order": 5, "title": "Asking names", "target_xp": 20, "is_free": false },
+
+  { "id": "l_a1_2_1", "unit_id": "u_a1_2_daily", "display_order": 1, "title": "Food basics", "target_xp": 20, "is_free": false },
+  { "id": "l_a1_2_2", "unit_id": "u_a1_2_daily", "display_order": 2, "title": "Drinks & café", "target_xp": 20, "is_free": false },
+  { "id": "l_a1_2_3", "unit_id": "u_a1_2_daily", "display_order": 3, "title": "Time of day", "target_xp": 20, "is_free": false },
+  { "id": "l_a1_2_4", "unit_id": "u_a1_2_daily", "display_order": 4, "title": "Transport", "target_xp": 20, "is_free": false },
+  { "id": "l_a1_2_5", "unit_id": "u_a1_2_daily", "display_order": 5, "title": "A1.2 boss", "target_xp": 30, "is_free": false },
+
+  { "id": "l_a2_0_1", "unit_id": "u_a2_0_around", "display_order": 1, "title": "Asking directions", "target_xp": 25, "is_free": false },
+  { "id": "l_a2_0_2", "unit_id": "u_a2_0_around", "display_order": 2, "title": "Shopping", "target_xp": 25, "is_free": false },
+  { "id": "l_a2_0_3", "unit_id": "u_a2_0_around", "display_order": 3, "title": "Restaurant", "target_xp": 25, "is_free": false },
+  { "id": "l_a2_0_4", "unit_id": "u_a2_0_around", "display_order": 4, "title": "Money & paying", "target_xp": 25, "is_free": false },
+  { "id": "l_a2_0_5", "unit_id": "u_a2_0_around", "display_order": 5, "title": "Public transport", "target_xp": 25, "is_free": false },
+
+  { "id": "l_a2_1_1", "unit_id": "u_a2_1_past", "display_order": 1, "title": "Yesterday", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_1_2", "unit_id": "u_a2_1_past", "display_order": 2, "title": "Past tense basics", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_1_3", "unit_id": "u_a2_1_past", "display_order": 3, "title": "Future plans", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_1_4", "unit_id": "u_a2_1_past", "display_order": 4, "title": "Travel stories", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_1_5", "unit_id": "u_a2_1_past", "display_order": 5, "title": "Weekend recap", "target_xp": 30, "is_free": false },
+
+  { "id": "l_a2_2_1", "unit_id": "u_a2_2_opinions", "display_order": 1, "title": "I like / dislike", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_2_2", "unit_id": "u_a2_2_opinions", "display_order": 2, "title": "Feelings", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_2_3", "unit_id": "u_a2_2_opinions", "display_order": 3, "title": "Comparing", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_2_4", "unit_id": "u_a2_2_opinions", "display_order": 4, "title": "Recommendations", "target_xp": 30, "is_free": false },
+  { "id": "l_a2_2_5", "unit_id": "u_a2_2_opinions", "display_order": 5, "title": "A2.2 boss", "target_xp": 40, "is_free": false },
+
+  { "id": "l_b1_0_1", "unit_id": "u_b1_0_work", "display_order": 1, "title": "Jobs & roles", "target_xp": 35, "is_free": false },
+  { "id": "l_b1_0_2", "unit_id": "u_b1_0_work", "display_order": 2, "title": "Office talk", "target_xp": 35, "is_free": false },
+  { "id": "l_b1_0_3", "unit_id": "u_b1_0_work", "display_order": 3, "title": "Studies & university", "target_xp": 35, "is_free": false },
+  { "id": "l_b1_0_4", "unit_id": "u_b1_0_work", "display_order": 4, "title": "Career discussions", "target_xp": 35, "is_free": false },
+  { "id": "l_b1_0_5", "unit_id": "u_b1_0_work", "display_order": 5, "title": "Interviews", "target_xp": 35, "is_free": false },
+
+  { "id": "l_b1_1_1", "unit_id": "u_b1_1_culture", "display_order": 1, "title": "Films & TV", "target_xp": 40, "is_free": false },
+  { "id": "l_b1_1_2", "unit_id": "u_b1_1_culture", "display_order": 2, "title": "Books & reading", "target_xp": 40, "is_free": false },
+  { "id": "l_b1_1_3", "unit_id": "u_b1_1_culture", "display_order": 3, "title": "Music & art", "target_xp": 40, "is_free": false },
+  { "id": "l_b1_1_4", "unit_id": "u_b1_1_culture", "display_order": 4, "title": "Czech traditions", "target_xp": 40, "is_free": false },
+  { "id": "l_b1_1_5", "unit_id": "u_b1_1_culture", "display_order": 5, "title": "Current events", "target_xp": 40, "is_free": false },
+
+  { "id": "l_b1_2_1", "unit_id": "u_b1_2_nuance", "display_order": 1, "title": "Idioms 1", "target_xp": 45, "is_free": false },
+  { "id": "l_b1_2_2", "unit_id": "u_b1_2_nuance", "display_order": 2, "title": "Idioms 2", "target_xp": 45, "is_free": false },
+  { "id": "l_b1_2_3", "unit_id": "u_b1_2_nuance", "display_order": 3, "title": "Casual register", "target_xp": 45, "is_free": false },
+  { "id": "l_b1_2_4", "unit_id": "u_b1_2_nuance", "display_order": 4, "title": "Formal register", "target_xp": 45, "is_free": false },
+  { "id": "l_b1_2_5", "unit_id": "u_b1_2_nuance", "display_order": 5, "title": "🏁 B1 boss", "target_xp": 60, "is_free": false }
+]

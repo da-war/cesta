@@ -1,0 +1,31 @@
+[
+  { "id": "p_a10_1", "cefr_target": "A1.0", "skill": "vocab", "prompt_en": "What does 'ahoj' mean?", "prompt_cs": "ahoj", "audio_path": null, "correct_answer": "hi", "choices": ["hi", "bye", "thanks", "please"] },
+  { "id": "p_a10_2", "cefr_target": "A1.0", "skill": "vocab", "prompt_en": "What does 'děkuji' mean?", "prompt_cs": "děkuji", "audio_path": null, "correct_answer": "thank you", "choices": ["thank you", "sorry", "please", "yes"] },
+  { "id": "p_a10_3", "cefr_target": "A1.0", "skill": "vocab", "prompt_en": "What does 'ano' mean?", "prompt_cs": "ano", "audio_path": null, "correct_answer": "yes", "choices": ["yes", "no", "maybe", "okay"] },
+
+  { "id": "p_a11_1", "cefr_target": "A1.1", "skill": "vocab", "prompt_en": "How do you say 'water'?", "prompt_cs": null, "audio_path": null, "correct_answer": "voda", "choices": ["voda", "víno", "pivo", "káva"] },
+  { "id": "p_a11_2", "cefr_target": "A1.1", "skill": "vocab", "prompt_en": "What is 'matka'?", "prompt_cs": "matka", "audio_path": null, "correct_answer": "mother", "choices": ["mother", "sister", "aunt", "grandmother"] },
+  { "id": "p_a11_3", "cefr_target": "A1.1", "skill": "grammar", "prompt_en": "Choose: 'Já ___ student.'", "prompt_cs": "Já ___ student.", "audio_path": null, "correct_answer": "jsem", "choices": ["jsem", "je", "jsou", "jsme"] },
+
+  { "id": "p_a12_1", "cefr_target": "A1.2", "skill": "vocab", "prompt_en": "What is 'snídaně'?", "prompt_cs": "snídaně", "audio_path": null, "correct_answer": "breakfast", "choices": ["breakfast", "lunch", "dinner", "snack"] },
+  { "id": "p_a12_2", "cefr_target": "A1.2", "skill": "grammar", "prompt_en": "Past tense of 'jsem' (I am)?", "prompt_cs": null, "audio_path": null, "correct_answer": "byl jsem", "choices": ["byl jsem", "budu", "jsem byl", "byli"] },
+  { "id": "p_a12_3", "cefr_target": "A1.2", "skill": "vocab", "prompt_en": "How do you say 'tomorrow'?", "prompt_cs": null, "audio_path": null, "correct_answer": "zítra", "choices": ["zítra", "včera", "dnes", "ráno"] },
+
+  { "id": "p_a20_1", "cefr_target": "A2.0", "skill": "vocab", "prompt_en": "What is 'lékárna'?", "prompt_cs": "lékárna", "audio_path": null, "correct_answer": "pharmacy", "choices": ["pharmacy", "hospital", "bakery", "library"] },
+  { "id": "p_a20_2", "cefr_target": "A2.0", "skill": "grammar", "prompt_en": "Choose: 'Kolik to ___?'", "prompt_cs": "Kolik to ___?", "audio_path": null, "correct_answer": "stojí", "choices": ["stojí", "stojím", "stál", "stát"] },
+
+  { "id": "p_a21_1", "cefr_target": "A2.1", "skill": "vocab", "prompt_en": "What is 'pamatovat si'?", "prompt_cs": "pamatovat si", "audio_path": null, "correct_answer": "to remember", "choices": ["to remember", "to forget", "to think", "to know"] },
+  { "id": "p_a21_2", "cefr_target": "A2.1", "skill": "grammar", "prompt_en": "Future of 'jít' (to go)?", "prompt_cs": null, "audio_path": null, "correct_answer": "půjdu", "choices": ["půjdu", "šel jsem", "jdu", "jít budu"] },
+
+  { "id": "p_a22_1", "cefr_target": "A2.2", "skill": "vocab", "prompt_en": "What is 'překvapený'?", "prompt_cs": "překvapený", "audio_path": null, "correct_answer": "surprised", "choices": ["surprised", "angry", "tired", "bored"] },
+  { "id": "p_a22_2", "cefr_target": "A2.2", "skill": "grammar", "prompt_en": "'Lepší' is comparative of?", "prompt_cs": null, "audio_path": null, "correct_answer": "dobrý", "choices": ["dobrý", "špatný", "velký", "malý"] },
+
+  { "id": "p_b10_1", "cefr_target": "B1.0", "skill": "vocab", "prompt_en": "What is 'pohovor'?", "prompt_cs": "pohovor", "audio_path": null, "correct_answer": "job interview", "choices": ["job interview", "meeting", "conversation", "lecture"] },
+  { "id": "p_b10_2", "cefr_target": "B1.0", "skill": "grammar", "prompt_en": "Choose: 'Kdybych ___ čas...'", "prompt_cs": "Kdybych ___ čas...", "audio_path": null, "correct_answer": "měl", "choices": ["měl", "mám", "měli", "mít"] },
+
+  { "id": "p_b11_1", "cefr_target": "B1.1", "skill": "vocab", "prompt_en": "What is 'zvyk'?", "prompt_cs": "zvyk", "audio_path": null, "correct_answer": "habit / custom", "choices": ["habit / custom", "rule", "law", "tradition"] },
+  { "id": "p_b11_2", "cefr_target": "B1.1", "skill": "grammar", "prompt_en": "Pick the passive: 'Kniha ___ napsána.'", "prompt_cs": "Kniha ___ napsána.", "audio_path": null, "correct_answer": "byla", "choices": ["byla", "byl", "byly", "bylo"] },
+
+  { "id": "p_b12_1", "cefr_target": "B1.2", "skill": "vocab", "prompt_en": "What does 'mít hlavu v oblacích' mean?", "prompt_cs": "mít hlavu v oblacích", "audio_path": null, "correct_answer": "to be daydreaming", "choices": ["to be daydreaming", "to be arrogant", "to be tall", "to be lost"] },
+  { "id": "p_b12_2", "cefr_target": "B1.2", "skill": "vocab", "prompt_en": "What does 'na rovinu' mean?", "prompt_cs": "na rovinu", "audio_path": null, "correct_answer": "frankly / straight up", "choices": ["frankly / straight up", "on the road", "flat", "downhill"] }
+]
